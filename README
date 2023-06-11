@@ -1,0 +1,6 @@
+Lembrar de instalar o que for necessario através do prompt de comando, tais como;
+> npm install mongoose
+> npm init -y
+> npm install prompt-sync
+
+conforme for desenvolvendo o projeto, ver quais comandos mais necessarios
